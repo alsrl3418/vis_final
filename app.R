@@ -1,7 +1,6 @@
 library(shiny)
 library(tidyverse)
 library(lubridate)
-load("mapsaved.RData")
 
 ui <- fluidPage(
   titlePanel("지역별 고용지표 분석"),
