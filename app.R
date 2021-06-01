@@ -27,7 +27,7 @@ ui <- fluidPage(
                    choices = c("전체", "남자" , "여자"),
                    selected = "전체"),
       
-      img(src = "image101.jpg", height = 100, width = 150)
+      img(src = "image101.jpg", height = 200, width = 250)
       
       
     ),
