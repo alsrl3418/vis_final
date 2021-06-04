@@ -1,6 +1,7 @@
 library(shiny)
 library(tidyverse)
 library(lubridate)
+library(ggmap)
 load("data/mapsaved.RData")
 
 ui <- fluidPage(
